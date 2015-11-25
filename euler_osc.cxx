@@ -3,8 +3,6 @@ exact solution: cos(t) */
 
 #include<fstream>
 #include<cmath>
-#include<string>
-#include<sstream>
 
 using namespace std;
 
